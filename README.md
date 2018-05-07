@@ -26,21 +26,29 @@ In order not to have to modify the code, the cableing is done as following
 ### Ultrasonic Sensor
 
 echo - pin 10
+######  
 trig - pin 9
+######  
 Vcc - 5v pin
+######  
 Gnd - Gnd pin
 
 ### Servo Motor
 
 signal - pin 11
+######  
 Vcc - 5v pin
+######  
 Gnd - Gnd pin
 
 ### What I Have Used
 
 Bread Board: https://goo.gl/KVyY7i
+######  
 Jumper Wires: https://goo.gl/toD8NA
+######  
 UNO: https://goo.gl/t9pEuk
+######  
 Ultrasonic Sensor: https://goo.gl/odrXPW
 
 ## Enjoy!
