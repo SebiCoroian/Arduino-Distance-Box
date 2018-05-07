@@ -8,10 +8,15 @@ A box that indicates the distance of an object placed in front of it
 # What will you need?
 
 1 x Arduino Uno (or any UNO based dev board)
+######  
 1 x Servo Motor
+######  
 1 x Ultrasonic Sensor
+######  
 1 x Bread Board
+######  
 Jumper Wires
+######  
 5v power supply
 
 # Connecting
