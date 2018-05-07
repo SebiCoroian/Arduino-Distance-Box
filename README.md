@@ -3,6 +3,8 @@ A box that indicates the distance of an object placed in front of it
 
 (my very first attempt in Arduino)
 
+![alt text](https://github.com/SebiCoroian/Arduino-Distance-Box/blob/master/DistanceBox.jpg "Logo Title Text 1")
+
 # What will you need?
 
 1 x Arduino Uno (or any UNO based dev board)
